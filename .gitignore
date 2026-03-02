@@ -1,0 +1,57 @@
+# ========================================
+# File Konfigurasi (SENSITIF - jangan upload!)
+# ========================================
+koneksi.php
+RANGKUMAN_PROYEK.txt
+
+# ========================================
+# Folder Vendor (Opsional - ukuran besar)
+# Uncomment jika tidak ingin upload vendor
+# ========================================
+# vendor/
+# admin/vendor/
+# petugas/vendor/
+
+# ========================================
+# Node Modules
+# ========================================
+node_modules/
+package-lock.json
+
+# ========================================
+# File Sistem Operasi
+# ========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================================
+# IDE / Editor
+# ========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+db_spp.sql
+
+# ========================================
+# Log Files
+# ========================================
+*.log
+error_log
+debug.log
+
+# ========================================
+# File Temporary
+# ========================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ========================================
+# Cache
+# ========================================
+.cache/
+*.cache
